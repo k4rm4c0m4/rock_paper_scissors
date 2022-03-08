@@ -170,5 +170,5 @@ int main()
     Referee r = Referee();
 
     while(1)
-        r.play_round(&simon, &mika);
+        r.play_round(&simon, &computer);
 }
