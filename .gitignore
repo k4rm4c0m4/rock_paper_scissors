@@ -1,3 +1,6 @@
+#vscode specifics
+.vscode
+
 # Prerequisites
 *.d
 
