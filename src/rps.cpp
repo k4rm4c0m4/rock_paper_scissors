@@ -165,7 +165,6 @@ class Referee
 int main()
 {
     HumanPlayer simon = HumanPlayer("Simon");
-    HumanPlayer mika = HumanPlayer("Mikail");
     ComputerPlayer computer = ComputerPlayer();
 
     Referee r = Referee();
